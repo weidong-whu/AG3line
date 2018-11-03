@@ -9,7 +9,7 @@ Some experimental results are listed below, and they can be magnified or downloa
 | image | PPHT | LSD | EDLines |
 |----|----|----|----|
 |![](pic/testimg/010.png "005") |![](pic/result/tower1-ppht.png "005")|![](pic/result/tower1-LSD.jpg "005")|![](pic/result/tower1-EDLines.jpg "005")|
-|![](pic/result/tower1-Linelet.jpg "005")|![](pic/result/tower1-MCMLSD.jpg "005")|![](pic/result/tower1-AG3line.jpg "005")|
+||![](pic/result/tower1-Linelet.jpg "005")|![](pic/result/tower1-mcm.jpg "005")|![](pic/result/tower1-AG3line.jpg "005")|
 
 
 
