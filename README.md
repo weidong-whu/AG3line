@@ -8,26 +8,27 @@ Some experimental results are listed below. In addition, the results of other 10
 
 |||||
 |:----:|:----:|:----:|:----:|
-|image| PPHT | LSD | EDLines |
 |![](pic/testimg/010.png "005") |![](pic/result/tower1-ppht.png "005")|![](pic/result/tower1-LSD.jpg "005")|![](pic/result/tower1-EDLines.jpg "005")|
-|| Linelet | MCMLSD |***AG3line***|
+|image| PPHT | LSD | EDLines |
 ||![](pic/result/tower1-Linelet.jpg "005")|![](pic/result/tower1-mcm.jpg "005")|![](pic/result/tower1-AG3line.jpg "005")|
-|image| PPHT | LSD | EDLines |
-|![](pic/testimg/tower11.jpg "005")|![](pic/result/tower2-ppht.png "005")|![](pic/result/tower2-LSD.jpg "005")|![](pic/result/tower2-EDLines.jpg "005")|
 || Linelet | MCMLSD |***AG3line***|
+|![](pic/testimg/tower11.jpg "005")|![](pic/result/tower2-ppht.png "005")|![](pic/result/tower2-LSD.jpg "005")|![](pic/result/tower2-EDLines.jpg "005")|
+|image| PPHT | LSD | EDLines |
 ||![](pic/result/tower2-Linelet.jpg "005")|![](pic/result/tower2-mcm.jpg "005")|![](pic/result/tower2-AG3line.jpg "005")|
-|image| PPHT | LSD | EDLines |
+|| Linelet | MCMLSD |***AG3line***|
 |![](pic/testimg/P1020856.jpg "005")|![](pic/result/facade-ppht.jpg "005")|![](pic/result/facade-LSD.jpg "005")|![](pic/result/facade-EDLines.jpg "005")|
-|| Linelet | MCMLSD | ***AG3line*** |
-||![](pic/result/facade-Linelet.jpg "005")|![](pic/result/facade-mcm.jpg "005")|![](pic/result/facade-AG3line.jpg "005")|
 |image| PPHT | LSD | EDLines |
-|![](pic/testimg/P1080091.jpg "005")|![](pic/result/york3-ppht.jpg "005")|![](pic/result/your3-LSD.jpg "005")|![](pic/result/york3-EDLines.jpg "005")|
+||![](pic/result/facade-Linelet.jpg "005")|![](pic/result/facade-mcm.jpg "005")|![](pic/result/facade-AG3line.jpg "005")|
 || Linelet | MCMLSD | ***AG3line*** |
+|![](pic/testimg/P1080091.jpg "005")|![](pic/result/york3-ppht.jpg "005")|![](pic/result/your3-LSD.jpg "005")|![](pic/result/york3-EDLines.jpg "005")|
+|image| PPHT | LSD | EDLines |
 ||![](pic/result/york3-Linelet.jpg "005")|![](pic/result/york3-mcm.jpg "005")|![](pic/result/york3-AG3line.jpg "005")|
 |image| PPHT | LSD | EDLines |
-|![](pic/testimg/P1080005.jpg "005")|![](pic/result/york1-ppht.jpg "005")|![](pic/result/york1-LSD.jpg "005")|![](pic/result/york1-EDLines.jpg "005")|
 || Linelet | MCMLSD | ***AG3line*** |
+|![](pic/testimg/P1080005.jpg "005")|![](pic/result/york1-ppht.jpg "005")|![](pic/result/york1-LSD.jpg "005")|![](pic/result/york1-EDLines.jpg "005")|
+|image| PPHT | LSD | EDLines |
 ||![](pic/result/york1-Linelet.jpg "005")|![](pic/result/york1-mcm.jpg "005")|![](pic/result/york1-AG3line.jpg "005")|
+|| Linelet | MCMLSD | ***AG3line*** |
 
 
 
