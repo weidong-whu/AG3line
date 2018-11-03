@@ -6,9 +6,10 @@ Since this is the experimental vision coded by MATLAB, the running speed remains
 ## Some results
 Some experimental results are listed below, and they can be magnified or downloaded. In addition, the results of other 100 images in York Urban databse are saved in "YorkUrbanRes" and they can be ploted by the code in "comparedraw.m".  
 
-| image | PPHT | LSD | EDLines |Linelet | MCMLSD | AG3line |
-| ---- | ---- |---- |---- |---- |---- |---- |
-|![](pic/testimg/010.png "005") |![](pic/result/tower1-ppht.png "005")|![](pic/result/tower1-LSD.jpg "005")|![](pic/result/tower1-EDLines.jpg "005")|![](pic/result/tower1-Linelet.jpg "005")|![](pic/result/tower1-MCMLSD.jpg "005")|![](pic/result/tower1-AG3line.jpg "005")|
+| image | PPHT | LSD | EDLines |
+|----|----|----|----|
+|![](pic/testimg/010.png "005") |![](pic/result/tower1-ppht.png "005")|![](pic/result/tower1-LSD.jpg "005")|![](pic/result/tower1-EDLines.jpg "005")|
+|![](pic/result/tower1-Linelet.jpg "005")|![](pic/result/tower1-MCMLSD.jpg "005")|![](pic/result/tower1-AG3line.jpg "005")|
 
 
 
