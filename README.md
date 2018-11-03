@@ -23,7 +23,6 @@ Some experimental results are listed below. In addition, the results of other 10
 |![](pic/testimg/P1080091.jpg "005")|![](pic/result/york3-ppht.jpg "005")|![](pic/result/your3-LSD.jpg "005")|![](pic/result/york3-EDLines.jpg "005")|
 |image| PPHT | LSD | EDLines |
 ||![](pic/result/york3-Linelet.jpg "005")|![](pic/result/york3-mcm.jpg "005")|![](pic/result/york3-AG3line.jpg "005")|
-|image| PPHT | LSD | EDLines |
 || Linelet | MCMLSD | ***AG3line*** |
 |![](pic/testimg/P1080005.jpg "005")|![](pic/result/york1-ppht.jpg "005")|![](pic/result/york1-LSD.jpg "005")|![](pic/result/york1-EDLines.jpg "005")|
 |image| PPHT | LSD | EDLines |
