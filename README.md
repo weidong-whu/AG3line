@@ -7,7 +7,7 @@
 4. Based on the extraction results and ground truth, the performances of the six detectors can be evaluated by the code in 'EvaluationDemo.m'.  
 5. Since this is the experimental vision coded by MATLAB, the running speed remains to be improved. It takes about 10-20 seconds to deal with the image in size of 640 x 480, and the image over 1000 in width or height is not recommended in experiment since it may take a long time. Good luck!
 ## Some results
-Some experimental results are listed below. In addition, the results of other 100 images in York Urban databse are saved in "YorkUrbanRes" and they can be ploted by the code in "YorkUrbanRes\seeres.m". 
+Some experimental results are listed below. In addition, the results of other 102 images in York Urban databse are saved in "YorkUrbanRes" and they can be ploted by the code in "YorkUrbanRes\seeres.m". 
 
 |||||
 |:----:|:----:|:----:|:----:|
