@@ -5,6 +5,7 @@
 2.  The folder "pic" contains 5 images for experiment, and other 102 images can be found on the [website](http://www.elderlab.yorku.ca/resources/york-urban-line-segment-database-information/), the York Urban database.  
 3. The experimental results of AG3line, [LSD](http://www.ipol.im/pub/art/2012/gjmr-lsd/), [Linelet](https://github.com/NamgyuCho/Linelet-code-and-YorkUrban-LineSegment-DB), [EDLines](http://ceng.anadolu.edu.tr/cv/EDLines/) , [MCMLSD](http://www.elderlab.yorku.ca/resources/) and [PPHT](https://docs.opencv.org/2.4/modules/imgproc/doc/feature_detection.html?highlight=houghlinesp#houghlinesp) on the York Urban database are saved in folder "YorkUrbanRes", and the comparing of the extraction result can be plotted by the code in "YorkUrbanRes\seeres.m".  
 4. Based on the extraction results and ground truth, the performances of the six detectors can be evaluated by the code in 'EvaluationDemo.m'.  
+## 5. An exe demo is available in the "Demo" folder to show the grouping process of our algorithm.
 
 ![image](pic//demo_short.gif)
 
